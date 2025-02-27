@@ -1,2 +1,2 @@
 push and oull requests in git
-pull in github
+pull in github.
